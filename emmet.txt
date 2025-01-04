@@ -1,0 +1,15 @@
+
+nodos hijos: >
+nodos hermanos: +
+subir un nivel: ^
+multiplicador: *
+agrupar expresiones: ()
+atributo de id: #
+atributo de clase: .
+atributos diferenes: []
+numeración: $
+modificar numeración: $@num (ej:$@5 empieza en 5)
+contenido: {}
+
+
+
